@@ -1,0 +1,1 @@
+var json_Fasilitaskesehatan_15 = {"type":"FeatureCollection","name":"Fasilitaskesehatan_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Pak Mantri"},"geometry":{"type":"Point","coordinates":[109.21432374080851,-7.402735173658172]}}]}
