@@ -1,0 +1,1 @@
+var json_Universitas_14 = {"type":"FeatureCollection","name":"Universitas_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"UNIVERSITAS WIJAYA KUSUMA"},"geometry":{"type":"Point","coordinates":[109.217080091546137,-7.399992103377043]}}]}
